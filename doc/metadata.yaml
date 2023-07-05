@@ -1,4 +1,7 @@
-description: null
+description: The ATprogISPUSB02A is an MLAB module enabling ISP programming of Atmel
+  AVR microcontrollers. It offers USB power supply with 3.3V or 5V options and is
+  compatible with STK500 programmers, allowing easy creation of Arduino-compatible
+  ATmega modules.
 github_branch: ATprogISPUSB02A
 github_repo: ATprogISPUSB02
 github_url: https://github.com/mlab-modules/ATprogISPUSB02
@@ -27,4 +30,11 @@ mark: 50
 tags:
 - mlab
 - mlab-module
+- atmega
+- isp
+- isp-programmer
+- programmer
+- mlab-atmega
+- mlab-avr
+- mlab-programmer
 title: ATprogISPUSB02
